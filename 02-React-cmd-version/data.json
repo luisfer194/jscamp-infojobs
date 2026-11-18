@@ -1,0 +1,134 @@
+[
+  {
+    "id": "cc0c1fa-4e85-4e2c-9b02-f12f9df8a2c9",
+    "titulo": "Frontend Developer React",
+    "empresa": "TechWave",
+    "ubicacion": "Ciudad de México",
+    "descripcion": "Responsable del desarrollo y mantenimiento de interfaces web interactivas utilizando React. El rol incluye la creación de componentes reutilizables, optimización del rendimiento del front-end y colaboración con diseñadores y equipos de backend para ofrecer experiencias de usuario modernas y eficientes.",
+    "data": {
+      "modalidad": "remoto",
+      "tecnologia": "react",
+      "nivel": "junior"
+    }
+  },
+  {
+    "id": "f31d1e1b-7c24-4eb7-bae7-87b12dc4c921",
+    "titulo": "Backend Developer Java",
+    "empresa": "SoftCore Solutions",
+    "ubicacion": "Guadalajara",
+    "descripcion": "Encargado del diseño, desarrollo e implementación de servicios backend utilizando Java. La posición requiere trabajar con arquitecturas basadas en microservicios, integrar bases de datos y asegurar la correcta escalabilidad y seguridad de las aplicaciones empresariales.",
+    "data": {
+      "modalidad": "guadalajara",
+      "tecnologia": "javascript",
+      "nivel": "mid"
+    }
+  },
+  {
+    "id": "9a7f23c5-2d4c-4f8a-ac44-dc9324c08124",
+    "titulo": "Python Automation Engineer",
+    "empresa": "InnovateX",
+    "ubicacion": "Monterrey",
+    "descripcion": "Rol enfocado en la automatización de procesos internos mediante la creación de scripts eficientes en Python. Involucra el análisis de flujos operativos, desarrollo de herramientas internas, mantenibilidad del código y soporte técnico para mejorar la productividad del equipo.",
+    "data": {
+      "modalidad": "monterrey",
+      "tecnologia": "javascript",
+      "nivel": "senior"
+    }
+  },
+  {
+    "id": "b8129af3-7448-4af3-8e3d-18dbbb612ac5",
+    "titulo": "Fullstack JavaScript Developer",
+    "empresa": "Digital Minds",
+    "ubicacion": "Barcelona",
+    "descripcion": "Desarrollo integral de aplicaciones web utilizando tecnologías JavaScript tanto en el front-end como en el back-end. El trabajo incluye la implementación de APIs, optimización del rendimiento del servidor, integración con sistemas externos y desarrollo de interfaces de usuario modernas.",
+    "data": {
+      "modalidad": "barcelona",
+      "tecnologia": "javascript",
+      "nivel": "lead"
+    }
+  },
+  {
+    "id": "d1c4b948-9cf9-4e3d-9b09-3b1f2be66f83",
+    "titulo": "React UI Engineer",
+    "empresa": "BlueTech",
+    "ubicacion": "Ciudad de México",
+    "descripcion": "Responsable de diseñar, desarrollar y mantener componentes de interfaz altamente reutilizables y escalables con React. El rol implica trabajar con equipos de diseño para transformar prototipos en experiencias funcionales, además de garantizar la accesibilidad y optimización del rendimiento.",
+    "data": {
+      "modalidad": "cdmx",
+      "tecnologia": "react",
+      "nivel": "mid"
+    }
+  },
+  {
+    "id": "e72a931b-3ce2-4c6e-a8b9-e4ec771d3c47",
+    "titulo": "Java Software Engineer",
+    "empresa": "CoreSystems",
+    "ubicacion": "Guadalajara",
+    "descripcion": "Desarrollo y mantenimiento de soluciones empresariales basadas en Java. El rol incluye trabajar con bases de datos relacionales, implementar microservicios robustos, mejorar la seguridad del sistema y participar en revisiones de código para garantizar buenas prácticas de desarrollo.",
+    "data": {
+      "modalidad": "remoto",
+      "tecnologia": "java",
+      "nivel": "senior"
+    }
+  },
+  {
+    "id": "03b7f2cd-4d38-4879-8fe8-6990bb34c924",
+    "titulo": "Python Data Developer",
+    "empresa": "DataFlow Labs",
+    "ubicacion": "Monterrey",
+    "descripcion": "Participación en la construcción de pipelines de datos, procesamiento de grandes volúmenes de información y desarrollo de herramientas internas utilizando Python. El rol exige conocimientos de análisis de datos, manejo de APIs y colaboración con equipos de machine learning.",
+    "data": {
+      "modalidad": "monterrey",
+      "tecnologia": "python",
+      "nivel": "junior"
+    }
+  },
+  {
+    "id": "5f3a79bb-1b22-4d44-a6f0-51092f0cba11",
+    "titulo": "JavaScript Frontend Developer",
+    "empresa": "Creative Web",
+    "ubicacion": "Barcelona",
+    "descripcion": "Diseño y desarrollo de interfaces de usuario modernas utilizando JavaScript. Este rol incluye optimización de carga, implementación de animaciones, trabajo con frameworks front-end y colaboración con equipos multidisciplinarios para garantizar una experiencia fluida al usuario final.",
+    "data": {
+      "modalidad": "remoto",
+      "tecnologia": "javascript",
+      "nivel": "mid"
+    }
+  },
+  {
+    "id": "86c5dd0c-a1a9-4b4e-bdb9-147ad11d56d2",
+    "titulo": "React Senior Engineer",
+    "empresa": "NextGen Apps",
+    "ubicacion": "Ciudad de México",
+    "descripcion": "Liderazgo técnico en el desarrollo de aplicaciones escalables basadas en React. Incluye toma de decisiones sobre arquitectura, adopción de nuevas tecnologías, mentoría a desarrolladores junior y participación en el diseño de productos digitales de alto impacto.",
+    "data": {
+      "modalidad": "cdmx",
+      "tecnologia": "react",
+      "nivel": "senior"
+    }
+  },
+  {
+    "id": "7b2c6419-044b-4e11-9a97-23fa8de1dbcb",
+    "titulo": "Lead Fullstack Python",
+    "empresa": "SkyNet Labs",
+    "ubicacion": "Guadalajara",
+    "descripcion": "Liderar equipos de desarrollo para construir y mantener aplicaciones fullstack basadas en Python. El rol incluye supervisión técnica, diseño de arquitectura, revisión de código y coordinación con áreas de producto para garantizar entregas eficientes y de alto nivel.",
+    "data": {
+      "modalidad": "guadalajara",
+      "tecnologia": "python",
+      "nivel": "lead"
+    }
+  },
+  {
+    "id": "c9e8f2a4-5b3d-4f7e-9a1b-8d2c3e4f5678",
+    "titulo": "Java Backend Developer",
+    "empresa": "Enterprise Solutions",
+    "ubicacion": "Monterrey",
+    "descripcion": "Desarrollo de servicios backend robustos utilizando Java. El rol incluye integración con bases de datos, implementación de APIs RESTful, optimización del rendimiento y colaboración con equipos de frontend para asegurar una experiencia de usuario coherente.",
+    "data": {
+      "modalidad": "monterrey",
+      "tecnologia": "java",
+      "nivel": "mid"
+    }
+  }
+]
